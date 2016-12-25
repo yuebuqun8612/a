@@ -5,3 +5,4 @@ dep modify01
 Test reset --hard HEAD~n
 Test checkout
 master modify01
+f1 modify01
