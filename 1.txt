@@ -6,3 +6,4 @@ Test reset --hard HEAD~n
 Test checkout
 master modify01
 f1 modify01
+test push01
