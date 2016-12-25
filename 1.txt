@@ -10,3 +10,4 @@ test push01
 test pull01
 test pull02
 test new push
+test confic
